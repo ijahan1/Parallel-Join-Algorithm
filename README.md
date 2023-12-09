@@ -1,6 +1,6 @@
 # Parallel-Join-Algorithm
 
-## Parallelizaton technique for join algorithm is implemented in Apache PySpark within Google Colab. Implemented 'Broadcast Join', 'Shuffled-hash Join' and 'Sort-merge Join' for 'inner', 'left-outer', 'right-outer', 'full-outer', 'left-semi', 'anti-semi' join types with different Spark configuration. 
+The parallelization technique for the join algorithm is implemented in Apache PySpark within Google Colab. Implemented 'Broadcast Join', 'Shuffled-hash Join' and 'Sort-merge Join' for 'inner', 'left-outer', 'right-outer', 'full-outer', 'left-semi', 'anti-semi' join types with different Spark configuration. 
 
 Codebase Information
 
@@ -10,7 +10,7 @@ Source code file: notebook
 
 Used Dataset:
 
-tpc-h benchmark 
+TPC-H benchmark 
 customer.csv
 orders.csv
 
