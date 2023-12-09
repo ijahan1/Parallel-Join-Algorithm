@@ -23,6 +23,6 @@ pandas (https://pandas.pydata.org)
 
 pyspark (https://spark.apache.org)
 
-Libraries used for visualization:
+**Libraries used for visualization:**
 
 Matplotlib (https://matplotlib.org)
