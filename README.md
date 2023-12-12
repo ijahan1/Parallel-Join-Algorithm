@@ -10,9 +10,9 @@ Source code file: notebook
 
 **Used Dataset:**
 
-TPC-H benchmark 
-customer.csv
-orders.csv
+* TPC-H benchmark 
+* customer.csv
+* orders.csv
 
 
 **Language used:** Python
